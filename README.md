@@ -47,6 +47,12 @@ const chris = {
 ## GitHub Activity
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=chrizcjohn&theme=tokyonight&hide_border=true&border_radius=8" alt="Chris John's GitHub streak" />
+</div>
+
+<br />
+
+<div align="center">
   <a href="https://github.com/chrizcjohn?tab=followers">
     <img src="https://img.shields.io/github/followers/chrizcjohn?style=for-the-badge&logo=github&label=Followers&color=00C2FF&labelColor=101827" alt="GitHub followers" />
   </a>
