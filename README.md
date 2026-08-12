@@ -47,32 +47,23 @@ const chris = {
 ## GitHub Activity
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=chrizcjohn&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=chrizcjohn&show_icons=true&theme=default&include_all_commits=true&hide_border=true&rank_icon=github"
-      alt="Chris John's GitHub stats"
-      height="165"
-    />
-  </picture>
-  <img
-    src="https://streak-stats.demolab.com?user=chrizcjohn&theme=tokyonight&hide_border=true"
-    alt="Chris John's GitHub streak"
-    height="165"
-  />
+  <a href="https://github.com/chrizcjohn?tab=followers">
+    <img src="https://img.shields.io/github/followers/chrizcjohn?style=for-the-badge&logo=github&label=Followers&color=00C2FF&labelColor=101827" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/chrizcjohn?tab=repositories">
+    <img src="https://img.shields.io/github/stars/chrizcjohn?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=FF4D8D&labelColor=101827" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/chrizcjohn">
+    <img src="https://komarev.com/ghpvc/?username=chrizcjohn&style=for-the-badge&color=7C3AED&label=Profile+Views" alt="Profile views" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrizcjohn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Chris John's most used languages"
-    height="165"
-  />
+  <a href="https://github.com/chrizcjohn">
+    <img src="https://img.shields.io/badge/View%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my repositories" />
+  </a>
 </div>
 
 ---
