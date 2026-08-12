@@ -47,7 +47,9 @@ const chris = {
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chrizcjohn&theme=tokyonight&hide_border=true&border_radius=8" alt="Chris John's GitHub streak" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=chrizcjohn&theme=tokyonight&hide_border=true&border_radius=8" alt="Chris John's GitHub streak" />
+  </a>
 </div>
 
 <br />
@@ -83,5 +85,3 @@ const chris = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D8D,50:7C3AED,100:00C2FF&height=90&section=footer" alt="Footer wave" />
-</div>
