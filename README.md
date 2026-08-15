@@ -39,7 +39,7 @@ const chris = {
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,docker,vscode&perline=6" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, Git, GitHub, Docker, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=spark,databricks,unity,nodejs,python,git,github,docker,vscode&perline=6" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, Python, Git, GitHub, Docker, and VS Code" />
 </div>
 
 ---
